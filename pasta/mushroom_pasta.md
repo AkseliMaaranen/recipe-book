@@ -11,3 +11,4 @@
 
 - Chop onions and fry with mushrooms
 - Mix with cooked spaghetti
+- Put some cheese on top
